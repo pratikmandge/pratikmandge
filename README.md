@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Pratik 👋🏼🧑🏼‍💻
 
 ![Banner](Banner.gif)
 
