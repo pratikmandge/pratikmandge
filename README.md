@@ -1,21 +1,19 @@
-```markdown
 # Welcome to My GitHub Profile!
 
-![Banner](#file:Banner.gif)
+![Banner](Banner.gif)
 
 ## Connect with Me
-
-[![Gmail](#file:social/gmail.png)](mailto:pratikmandgebussiness@gmail.com)
-[![LinkedIn](#file:social/linkedin.png)](https://www.linkedin.com/in/pratik-mandge/)
-[![Instagram](#file:social/instagram.png)](https://www.instagram.com/pratik_mandge)
-[![X](#file:social/x.png)](https://x.com/pratikmandge)
-[![Facebook](#file:social/facebook.png)](https://www.facebook.com/pratik.mandge.5)
+<p align="left">
+    <a href="mailto:pratikmandgebussiness@gmail.com"><img src="social/gmail.png" alt="Gmail" height="70"></a>
+    <a href="https://www.linkedin.com/in/pratik-mandge/"><img src="social/linkedin.png" alt="LinkedIn" height="64"></a>
+    <a href="https://www.instagram.com/pratik_mandge"><img src="social/instagram.png" alt="Instagram" height="68"></a>
+    <a href="https://x.com/pratikmandge"><img src="social/x.png" alt="X" height="64"></a>
+    <a href="https://www.facebook.com/pratik.mandge.5"><img src="social/facebook.png" alt="Facebook" height="64"></a>
+</p>
 
 ## About Me
 
-![Octocat](#file:octocat.png)
-
-Hello! I'm Pratik Mandge, a passionate developer always eager to learn and explore new technologies. Welcome to my GitHub profile where you can find my latest projects and contributions.
+<img src="octocat.png" align="left" alt="Octocat" style="margin-right: 20px; width: 350px;">
+<p>Hello! I'm Pratik Mandge, a passionate developer always eager to learn and explore new technologies. Welcome to my GitHub profile where you can find my latest projects andcontributions.</p>
 
 Feel free to connect with me through the social media links above!
-```
