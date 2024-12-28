@@ -1,16 +1,21 @@
-## Hi there 👋
+```markdown
+# Welcome to My GitHub Profile!
 
-<!--
-**pratikmandge/pratikmandge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](#file:Banner.gif)
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](#file:social/gmail.png)](mailto:pratikmandgebussiness@gmail.com)
+[![LinkedIn](#file:social/linkedin.png)](https://www.linkedin.com/in/pratik-mandge/)
+[![Instagram](#file:social/instagram.png)](https://www.instagram.com/pratik_mandge)
+[![X](#file:social/x.png)](https://x.com/pratikmandge)
+[![Facebook](#file:social/facebook.png)](https://www.facebook.com/pratik.mandge.5)
+
+## About Me
+
+![Octocat](#file:octocat.png)
+
+Hello! I'm Pratik Mandge, a passionate developer always eager to learn and explore new technologies. Welcome to my GitHub profile where you can find my latest projects and contributions.
+
+Feel free to connect with me through the social media links above!
+```
