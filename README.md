@@ -4,9 +4,9 @@
 
 ## About Me
 
-<img src="octocat.png" align="left" alt="Octocat" style="margin-right: 20px; width: 350px;">
+<img src="octocat.png" align="left" alt="Octocat" style="margin-right: 20px; width: 350px; pointer-events: none;">
 
-I am a **Software Development Engineer** with a strong background in full-stack development. I specialize in building efficient and user-friendly web applications with hands-on experience in technologies such as **React**, **Django REST**, **MySQL**, **Python**, **Node.js**, **GraphQL**, and **Spring Boot**. I am passionate about improving user experiences, optimizing operations, and solving complex technical challenges.
+I am a **Software Development Engineer** with a strong background in full-stack development. I build efficient and user-friendly web applications with hands-on experience in technologies such as **React**, **Django REST**, **MySQL**, **Python**, **Node.js**, **GraphQL**, and **Spring Boot**. I am passionate about improving user experiences, optimizing operations, and solving complex technical challenges.
 
 ### Tech Stack:
 - **Frontend**: React, JavaScript, HTML, CSS
