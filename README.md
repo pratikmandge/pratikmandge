@@ -69,17 +69,27 @@ Full-Stack Engineer at **OneFin** (Y Combinator W17), contributing to fintech so
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?logo=langchain&logoColor=white&style=plastic)
 
 
-## 🌱 Currently Learning
-- 🤖 AI/ML integration in fintech applications
-- ☁️ Advanced AWS services and microservices architecture
-- 📊 Real-time data processing and analytics
+## 🎯 What I'm Currently Working On
+- 🤖 **AI Integration**: Exploring ML applications in fintech lending
+- ☁️ **Cloud Architecture**: Advanced AWS services and microservices patterns  
+- 📈 **System Optimization**: Database performance tuning and scalability
+- 🔒 **Security**: Financial data protection and compliance frameworks
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn**: [pratik-mandge](https://linkedin.com/in/pratik-mandge)
 - 🐦 **Twitter**: [@PratikMandge](https://twitter.com/PratikMandge)
 - 💻 **LeetCode**: [pratikmandge](https://leetcode.com/pratikmandge)
-- 📧 **Email**: pratik.mandge@example.com
+- 📧 **Email**: [pratikmandge](mailto:pratikmandgebussiness@gmail.com)
 ---
+⭐ **Available for senior fintech engineering roles and consulting opportunities!**
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikmandge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmandge&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratikmandge"/>
+</div>
 
 ## 🎯 Featured Projects
 
@@ -106,15 +116,5 @@ Full-Stack Engineer at **OneFin** (Y Combinator W17), contributing to fintech so
 - 📱 Complete social networking features
 - 🔄 Real-time updates and notifications
 - 🛠️ **Tech**: React.js, Spring Boot, MySQL
-
 ---
-⭐ **Open to exciting full-stack and fintech opportunities!**
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikmandge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmandge&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratikmandge"/>
-</div>
-
+*"Building the future of finance, one line of code at a time."*
