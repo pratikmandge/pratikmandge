@@ -75,6 +75,12 @@ Full-Stack Engineer at **OneFin** (Y Combinator W17), contributing to fintech so
 - 📈 **System Optimization**: Database performance tuning and scalability
 - 🔒 **Security**: Financial data protection and compliance frameworks
 
+## AI & Machine Learning Innovation
+- Built an AI Explainer Framework powered by AWS Bedrock, utilizing the latest foundation models via serverless APIs.
+- The framework intelligently parses ORM metadata and database schemas, extracting table fields and business logic to produce AI-generated, explainable reports.
+- Key applications include EMI calculators, configurable financial product setups, and detailed report generation — enabling users to interact with complex fintech computations through natural language explanations.
+- Demonstrated expertise in applying generative AI technologies to real-world fintech problems, bridging software engineering with cutting-edge AI solutions.
+
 ## 📫 Let's Connect!
 - 💼 **LinkedIn**: [pratik-mandge](https://linkedin.com/in/pratik-mandge)
 - 🐦 **Twitter**: [@PratikMandge](https://twitter.com/PratikMandge)
