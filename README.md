@@ -99,6 +99,12 @@ Full-Stack Engineer at **OneFin** (Y Combinator W17), contributing to fintech so
 
 ## 🎯 Featured Projects
 
+### 🔧 [Globalwebix](https://github.com/pratikmandge/Globalwebix)
+**VS Code extension for automatic Python code formatting and linting**
+- 🚀 Built with JavaScript
+- 📦 Motion for web animation
+- 🛠️ **Tech**: React.js, Tailwind CSS, Motion.js
+
 ### 🔧 [Python Lint Fixer - VS Code Extension](https://github.com/pratikmandge/Python-Lint-Fixer)
 **VS Code extension for automatic Python code formatting and linting**
 - 🚀 Built with TypeScript and VS Code Extension API
