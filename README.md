@@ -99,8 +99,20 @@ Full-Stack Engineer at **OneFin** (Y Combinator W17), contributing to fintech so
 
 ## 🎯 Featured Projects
 
-### 🔧 [Globalwebix](https://github.com/pratikmandge/Globalwebix)
-**VS Code extension for automatic Python code formatting and linting**
+### 👗 [Kurtiz](https://github.com/pratikmandge/Fashion-Store-Platform)
+- 🛍️ Full-stack e-commerce platform for a clothing brand
+- ⚛️ Modern React frontend with Vite and Tailwind CSS
+- 🐍 Django REST API backend with modular app structure
+- 🔐 User authentication and JWT-based authorization
+- 📦 Product catalog with categories, images, and details
+- 🛒 Shopping cart, order management, and payment integration
+- ⭐ Review and 🔔 notification systems for user engagement
+- 📱 Responsive design for mobile and desktop
+- 🐘 PostgreSQL database support
+- 🛠️ **Tech**: React, Vite, Tailwind CSS, Django REST Framework, JWT, PostgreSQL, Docker, Git
+
+### 🧳 [Globalwebix](https://github.com/pratikmandge/Globalwebix)
+**Frontend for Travel agency platform**
 - 🚀 Built with JavaScript
 - 📦 Motion for web animation
 - 🛠️ **Tech**: React.js, Tailwind CSS, Motion.js
